@@ -1,0 +1,8 @@
+IT6038 Webhook Assessment
+
+This repository is being used to test
+GitHub commit notifications through Zapier.
+
+Purpose:
+To send an email notification whenever
+a new commit is recorded.
